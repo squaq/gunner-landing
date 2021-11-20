@@ -27,6 +27,7 @@ export default {
   justify-content: space-between;
   &__bro {
     max-width: 500px;
+    
   }
 }
 </style>
